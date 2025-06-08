@@ -9,10 +9,13 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  background-color: #e8f5e9;
   color: #333;
 }
+/*===================================================
 
+Calcurator
+
+===================================================*/
 .calculator-container {
   background-color: #ffffff;
   padding: 30px;
@@ -64,11 +67,11 @@ p {
   color: #d32f2f; /* 結果の数字を強調 */
   font-size: 1.8em;
 }
-/*=======================================
+/*===================================================
 
 Box
 
-=======================================*/
+===================================================*/
 .box {
   width: 720px;
   height: 480px;
@@ -112,9 +115,11 @@ Box
   height: 100%;
   border-color: rgba(255, 255, 255, 0.3);
   transition-delay: 0s;
+  border-radius: 10px;
 }
 .box:hover {
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(15px);
   transition-delay: 0.3s;
+  border-radius: 10px;
 }
