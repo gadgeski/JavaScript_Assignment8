@@ -1,8 +1,9 @@
 目的：今後 TypeScript や React にスケールする為の準備段階
 使用技術： JavaScript/CSS/HTML
 
-これはシンプルな足し算計算機を作成する HTML、CSS、JavaScript のコードですね。それぞれのコードがどのような役割を担っているか、詳しく見ていきましょう。
-HTML（HyperText Markup Language）
+これはシンプルな足し算計算機を作成する HTML、CSS、JavaScript のコードです。それぞれのコードがどのような役割を担っているか、詳しく見ていきましょう。
+
+<h1>HTMLの解説</h1>
 HTML はウェブページの骨組みを作る言語です。表示したい内容（テキスト、画像、入力欄など）を構造化します。
 
 <h3>DOCTYPE html</h3> この文書が HTML5 の形式で書かれていることを宣言します。
